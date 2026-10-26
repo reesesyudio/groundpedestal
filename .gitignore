@@ -1,0 +1,4 @@
+#!/bin/bash
+echo 'done'
+func main() { println("hi") }
+func main() { println("hi") }
